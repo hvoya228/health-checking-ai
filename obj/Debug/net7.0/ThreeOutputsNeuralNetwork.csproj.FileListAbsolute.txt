@@ -1,0 +1,15 @@
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\bin\Debug\net7.0\ThreeOutputsNeuralNetwork.exe
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\bin\Debug\net7.0\ThreeOutputsNeuralNetwork.deps.json
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\bin\Debug\net7.0\ThreeOutputsNeuralNetwork.runtimeconfig.json
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\bin\Debug\net7.0\ThreeOutputsNeuralNetwork.dll
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\bin\Debug\net7.0\ThreeOutputsNeuralNetwork.pdb
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.csproj.AssemblyReference.cache
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.AssemblyInfoInputs.cache
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.AssemblyInfo.cs
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.dll
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\refint\ThreeOutputsNeuralNetwork.dll
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.pdb
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ThreeOutputsNeuralNetwork.genruntimeconfig.cache
+D:\Projects\AI\ThreeOutputsNeuralNetwork\ThreeOutputsNeuralNetwork\obj\Debug\net7.0\ref\ThreeOutputsNeuralNetwork.dll
